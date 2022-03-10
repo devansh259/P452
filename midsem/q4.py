@@ -1,3 +1,4 @@
+import library as *
 file = open('msfit.txt', 'r')
 lines = file.readlines()
 file.close()
